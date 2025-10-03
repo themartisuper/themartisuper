@@ -15,7 +15,7 @@ I'm interested in web development. Also, I like JavaScript.
 [Nur's docs](https://themartisuper.github.io/) - Here I post helpful IT manuals. They can be used as references
 
 <details align="left">
-  <summary><h2><b>📚 Tech stack</b></h2></summary>
+  <h2><b>📚 Tech stack</b></h2>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,py&perline=7" />
@@ -29,7 +29,7 @@ I'm interested in web development. Also, I like JavaScript.
 
 
 <details align="left">
-  <summary><h2><b>📊GitHub stats</b></h2></summary>
+  <h2><b>📊GitHub stats</b></h2>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themartisuper&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
