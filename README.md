@@ -23,11 +23,7 @@ I'm interested in web development. Also, I like JavaScript.
   <h3>🛠️ Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,webpack,vscode,pycharm,obsidian,windows&perline=7" />
   <h3>🎨 Concepts & Other Skills</h3>
-  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=c">&nbsp;
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger">&nbsp;
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json">&nbsp;
-  <img src="https://img.shields.io/badge/Responsive_Design-FF6F00?style=for-the-badge&logo=responsive">&nbsp;
-  <img src="https://img.shields.io/badge/DOM_Manipulation-303030?style=for-the-badge&logo=javascript">&nbsp;
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=c"><img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"><img src="https://img.shields.io/badge/Responsive_Design-FF6F00?style=for-the-badge&logo=responsive"><img src="https://img.shields.io/badge/DOM_Manipulation-303030?style=for-the-badge&logo=javascript">
   <br>
 </p>
 
